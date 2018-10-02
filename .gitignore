@@ -11,3 +11,6 @@ obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
 obj/Debug/netcoreapp2.1/Razor/Views/Home/DirtyTactics.g.cshtml.cs
 obj/Debug/netcoreapp2.1/Razor/Views/Home/AboutDirtyTactics.g.cshtml.cs
 bin/Debug/netcoreapp2.1/WebsiteApp.Views.pdb
+*.dll
+*.cs
+*.pdb

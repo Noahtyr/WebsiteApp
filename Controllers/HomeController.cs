@@ -34,7 +34,7 @@ namespace WebsiteApp.Controllers
             return View();
         }
 
-        public IActionResult DirtyTactics()
+        public IActionResult Games()
         {
             ViewData["Message"] = "What games do we play?";
 

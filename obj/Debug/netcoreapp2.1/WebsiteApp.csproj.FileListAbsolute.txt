@@ -89,7 +89,6 @@ C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\WebsiteApp.Ra
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\AboutDirtyTactics.g.cshtml.cs
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\DirtyTactics.g.cshtml.cs
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
@@ -105,3 +104,4 @@ C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\WebsiteApp.Vi
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\WebsiteApp.dll
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\WebsiteApp.pdb
 C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\WebsiteApp.csproj.CopyComplete
+C:\Users\Noahd\Documents\GitHub\WebsiteApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Games.g.cshtml.cs
