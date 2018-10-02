@@ -41,6 +41,12 @@ namespace WebsiteApp.Controllers
             return View();
         }
 
+        public IActionResult WowPage()
+        {
+            ViewData["Message"] = "About that one game we play";
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
