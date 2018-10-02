@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Noahd\\Documents\\GitHub\\WebsiteApp\\WebsiteApp.csproj",
+      "projectUniqueName": "C:\\Users\\Noahd\\Documents\\WebsiteApp\\WebsiteApp.csproj",
       "projectName": "WebsiteApp",
-      "projectPath": "C:\\Users\\Noahd\\Documents\\GitHub\\WebsiteApp\\WebsiteApp.csproj",
+      "projectPath": "C:\\Users\\Noahd\\Documents\\WebsiteApp\\WebsiteApp.csproj",
       "packagesPath": "C:\\Users\\Noahd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Noahd\\Documents\\GitHub\\WebsiteApp\\obj\\",
+      "outputPath": "C:\\Users\\Noahd\\Documents\\WebsiteApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
