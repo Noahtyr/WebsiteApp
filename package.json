@@ -1,0 +1,31 @@
+{
+  "name": "websiteapp",
+  "version": "1.0.0",
+  "description": "My Website for my Community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noahtyr/WebsiteApp.git"
+  },
+  "keywords": [
+    "my",
+    "website",
+    "dirty",
+    "tactics",
+    "community",
+    "website",
+    "website"
+  ],
+  "author": "Noah Juaquin Davidian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noahtyr/WebsiteApp/issues"
+  },
+  "homepage": "https://github.com/Noahtyr/WebsiteApp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
