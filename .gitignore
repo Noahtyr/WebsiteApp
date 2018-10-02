@@ -332,3 +332,7 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+*.ide-shm
+.vs/WebsiteApp/v15/Server/sqlite3/storage.ide-shm
+bin/Debug/netcoreapp2.1/WebsiteApp.Views.pdb
+obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
