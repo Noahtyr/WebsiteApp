@@ -336,3 +336,15 @@ ASALocalRun/
 .vs/WebsiteApp/v15/Server/sqlite3/storage.ide-shm
 bin/Debug/netcoreapp2.1/WebsiteApp.Views.pdb
 obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+.vs/WebsiteApp/v15/.suo
+.vs/WebsiteApp/v15/Server/sqlite3/storage.ide-shm
+.vs/WebsiteApp/v15/Server/sqlite3/storage.ide-wal
+bin/Debug/netcoreapp2.1/WebsiteApp.Views.dll
+bin/Debug/netcoreapp2.1/WebsiteApp.Views.pdb
+obj/Debug/netcoreapp2.1/Razor/Views/Home/AboutDirtyTactics.g.cshtml.cs
+obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+obj/Debug/netcoreapp2.1/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
+obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+obj/Debug/netcoreapp2.1/WebsiteApp.Views.dll
