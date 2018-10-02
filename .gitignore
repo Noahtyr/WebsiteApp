@@ -14,3 +14,7 @@ bin/Debug/netcoreapp2.1/WebsiteApp.Views.pdb
 *.dll
 *.cs
 *.pdb
+*.ide-wal
+.vs/WebsiteApp/DesignTimeBuild/.dtbcache
+.vs/WebsiteApp/v15/.suo
+*.ide-wal
